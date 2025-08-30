@@ -1,0 +1,9 @@
+Modern cartoon school building, 2D game sprite, eco-friendly design, blue windows, some solar panels on roof, green surroundings, 200x150px, clean lines, child-friendly
+Blue solar panel sprite, rectangular, metallic frame, grid pattern, shiny surface, 60x40px, realistic but cartoon style, renewable energy theme
+Green landscape background, blue sky, rolling hills, wind turbines in distance, grass foreground, sustainable city theme, 800x600px, cartoon style, bright and optimistic
+Friendly teacher character, diverse appearance, professional casual clothes, holding tablet, encouraging smile, environmental expert, 80x80px sprite, cartoon style
+
+Color Palette Suggestions:
+Primary: #4CAF50 (Green), #2196F3 (Blue), #FF9800 (Orange accent)
+Earth tones: #8BC34A (Light green), #87CEEB (Sky blue), #D2B48C (Tan)
+Energy: #FFD700 (Gold for energy), #00BCD4 (Cyan for tech)
